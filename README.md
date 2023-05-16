@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-html-css-RIoHxaEfpz](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-html-css-RIoHxaEfpz)
 - Live Site URL: [https://bradley630.github.io/product-preview-card-component-main/](https://bradley630.github.io/product-preview-card-component-main/)
 
 ## My process
